@@ -1,0 +1,22 @@
+Store Summary:
+          total_revenue  avg_units_sold                           unique_order_segments
+Store_ID                                                                               
+Store_A          8040.0        5.304348  [Low-Margin, Bulk High-Value, Standard Retail]
+Store_B          3780.0        5.375000  [Standard Retail, Low-Margin, Bulk High-Value]
+Store_C          3570.0        6.142857  [Standard Retail, Low-Margin, Bulk High-Value]
+
+Revenue Outliers:
+    Transaction_ID Store_ID  Revenue  Units_Sold  unit_price    order_segment
+3             1005  Store_A    500.0           8   62.500000  Bulk High-Value
+10            1013  Store_C    500.0           9   55.555556  Bulk High-Value
+13            1016  Store_A    500.0           2  250.000000  Standard Retail
+16            1019  Store_B    500.0           9   55.555556  Bulk High-Value
+19            1022  Store_A    500.0           4  125.000000  Standard Retail
+25            1028  Store_B    500.0           7   71.428571  Bulk High-Value
+69            1079  Store_A    500.0           7   71.428571  Bulk High-Value
+73            1083  Store_A    500.0           2  250.000000  Standard Retail
+74            1084  Store_A    500.0          10   50.000000  Bulk High-Value
+82            1092  Store_C    500.0          10   50.000000  Bulk High-Value
+83            1093  Store_C    500.0           7   71.428571  Bulk High-Value
+88            1098  Store_B    500.0           8   62.500000  Bulk High-Value
+89            1099  Store_A    500.0          10   50.000000  Bulk High-Value
